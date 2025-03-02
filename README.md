@@ -21,7 +21,6 @@ This repository serves as a playground for implementing and testing various auth
 ✅ Vue.js for a dynamic and responsive frontend.
 ✅ Multiple authentication methods implemented and tested.
 ✅ SQLite (default) database, with easy configuration for PostgreSQL or MySQL.
-✅ Docker support for consistent development and deployment environments.
 
 🔑 Authentication Methods Explored
 
@@ -60,7 +59,6 @@ This repository serves as a playground for implementing and testing various auth
 	•	Vue Router – Routing for Vue applications.
 
 🔹 Other Tools
-	•	Docker – Containerization for development & deployment.
 	•	Redis – Caching and background tasks.
 	•	Celery – Asynchronous task processing.
 
